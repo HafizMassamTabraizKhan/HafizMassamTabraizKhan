@@ -1,1 +1,1 @@
-Test task.
+Test tasks.
